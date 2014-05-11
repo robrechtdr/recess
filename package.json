@@ -13,3 +13,5 @@
 , "scripts": { "test": "node test" }
 , "bin": { "recess": "./bin/recess" }
 , "preferGlobal": true }
+
+console.log("dude")
